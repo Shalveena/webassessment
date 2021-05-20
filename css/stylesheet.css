@@ -12,5 +12,9 @@ form {
 /* } */
 
 .card img {
-  border-radius: 10% 10% 0 10%;
+  border-radius: 10% 10% 0 10% !important;
+}
+
+.imgstyle {
+  height: 15rem;
 }
